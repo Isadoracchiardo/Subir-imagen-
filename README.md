@@ -8,3 +8,10 @@ Eliminé a mi marmota del "trabajo Nº1" por equivocación
 ![marmota pensadora](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Marmot-edit1.jpg/250px-Marmot-edit1.jpg)
 
 *MARMOTA PENSADORA**
+
+<ol>
+<li>azul</li>
+<li>verde</li>
+<li>amarillo</li>
+<li>naranjo</li>
+</ol>
